@@ -1,0 +1,32 @@
+
+:root{
+    --brd:#f1eeee;
+    --dbrd:#afabab;
+    --err:#b97777;
+    --placeholderColor:rgb(204, 196, 196);
+    --bgbar:#e8e6e6;
+    --bgSearch:#faf6f6;
+    --bg:#f4f1f1;
+    --logo:#3cab44;
+    --fntClr:rgb(73, 73, 73);
+    --bgw:#fff;
+    --cShadow: #a9a1a1;
+    --cMsg: #74da7c;
+    --brdList:#e3e3e3;
+    
+}
+
+$brd:var(--brd);
+$dbrd:var(--dbrd);
+$err:var(--err);
+$placeholderColor:var(--placeholderColor);
+$bgbar:var( --bgbar);
+$bgSearch:var(--bgSearch);
+$bg:var(--bg);
+$logo:var(--logo);
+$fntClr:var(--fntClr);
+$bgw:var(--bgw);
+$cShadow:var(--cShadow);
+$cMsg:var(--cMsg);
+$brdList:var(--brdList)
+
